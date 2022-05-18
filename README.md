@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/AndreiKnizhenko" target="_blank">Andrei</a> 
+<h1 align="center">Hi there, I'm <a href="https://yavoriv-info.com.ua/wp-content/uploads/vasha-reklama-200-1.gif" target="_blank">Andrei</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm a student of National Aerospase University "Kharkiv Aviation Institute". My specialty is Telecommunications and Radioengineering (Radio Electronic Devices, Systems and Complexes).</h3>
 
