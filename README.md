@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm a student of National Aerospase University "Kharkiv Aviation Institute". My specialty is Telecommunications and Radioengineering (Radio Electronic Devices, Systems and Complexes).
 
 <!--
 **AndreiKnizhenko/AndreiKnizhenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
