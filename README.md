@@ -6,5 +6,7 @@
 
 ![steamcommunity.com/id/was_it_me/](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
    
+.. |Steam| image:: https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white
+   :target: steamcommunity.com/id/was_it_me/ 
 
 
